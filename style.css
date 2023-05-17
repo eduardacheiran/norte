@@ -1,0 +1,215 @@
+*{
+    margin: 1vh;
+    padding: 1vh;
+    box-sizing: border-box;
+}
+
+.primeira_sessao{
+    border: 1px solid black;
+    width: 95vw;
+    height: 90vh;
+    background-image: linear-gradient(to top, rgb(201, 235, 201), rgb(201, 235, 201));
+    border-radius: 1px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.primeira_sessao-article{
+    display: flex;
+    flex-direction: column;  
+}
+
+.article_roraima-amapa-amazonas{
+    display: flex;
+    flex-direction: column; 
+}
+
+#Roraima{
+    width: 23vh; 
+}
+
+#Amapa{
+    width: 23vh;
+}
+
+#Amazonas{
+    width: 23vh;
+}
+
+.article_para-acre-rond{
+    display: flex;
+    flex-direction: column; 
+}
+
+#Para{
+    width: 23vh;
+}
+
+#Acre{
+    width: 23vh;
+}
+
+#Rondonia{
+    width: 23vh;
+}
+
+.article_tocantins{
+    display: flex;
+    flex-direction: column; 
+}
+
+#Tocantins{
+    width: 23vh;
+}
+
+#Norte{
+    width: 90vh;
+}
+
+.segunda_sessao{
+    border: 1px solid black;
+    width: 95vw;
+    height: 90vh;
+    background-image: linear-gradient(to top, rgb(51, 193, 51),rgb(51, 193, 51));
+    border-radius: 1px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.segunda_sessao-article{
+    display: flex;
+    flex-direction: row;
+}
+
+
+#Cultura{
+    width: 90vh;
+}
+
+.segunda_sessao-paragrafo{
+    width: 37vw;
+    font-size: 18px;
+    text-align: justify;
+    
+}
+
+.terceira_sessao{
+   border: 1px solid black;
+    width: 95vw;
+    height: 90vh;
+    background-image: linear-gradient(to top, rgb(201, 235, 201), rgb(201, 235, 201));
+    border-radius: 1px;
+   padding: 20px;
+}
+
+#comidas1{
+    width: 50vh;
+}
+
+#comidas2{
+    width: 63vh;
+}
+
+#comidas3{
+    width: 50vh;
+}
+
+.article1{
+    display: flex;
+    flex-direction: row;
+}
+
+.acai_paragrafo{
+    text-align: justify;
+}
+
+.caruru_paragrafo{
+    text-align: justify;
+}
+
+.costela_paragrafo{
+    text-align: justify;
+}
+
+.quarta_sessao{
+    border: 1px solid black;
+    width: 95vw;
+    height: 90vh;
+    background-image: linear-gradient(to top, rgb(51, 193, 51),rgb(51, 193, 51));
+    border-radius: 1px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quarta_sessao-article{
+    display: flex;
+    flex-direction: row;
+}
+
+#musica{
+    width: 85vh;
+}
+
+.quarta_sessao-paragrafo{
+    width: 37vw;
+    font-size: 18px;
+    text-align: justify;
+    padding: 40px;
+}
+
+.quinta_sessao{
+    border: 1px solid black;
+    width: 95vw;
+    height: 90vh;
+    background-image: linear-gradient(to top, rgb(201, 235, 201), rgb(201, 235, 201));
+    border-radius: 1px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#curupira{
+    width: 60vh;
+}
+
+.quinta_sessao-article{
+    display: flex;
+    flex-direction: row;
+}
+
+.quinta_sessao-paragrafo{
+    width: 45vw;
+    font-size: 20px;
+    text-align: justify;
+    padding: 90px;
+}
+
+.sexta_sessao{
+    border: 1px solid black;
+    width: 95vw;
+    height: 90vh;
+    background-image: linear-gradient(to top, rgb(51, 193, 51),rgb(51, 193, 51));
+    border-radius: 1px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sexta_sessao-article{
+    display: flex;
+    flex-direction: row;
+}
+
+.sexta_sessao-paragrafo{
+    font-size: 21px;
+    text-align: justify;
+    padding: 90px;
+}
+
+#brasil{
+    width: 100vh;
+}
